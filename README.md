@@ -1,4 +1,4 @@
-# DAFT2021-Final-Project                                                                                              ![Videogame_analysis_image](technology-ge12d8af74_1280.jpg)
+# Metacritic vs The Vox Populi: NLP Analysis of Videogame Reviews                                                                                            ![Videogame_analysis_image](technology-ge12d8af74_1280.jpg)
 An analysis of User videogame user reviews versus the metacritic scoring system.
 ## Background  
 
