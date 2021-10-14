@@ -38,7 +38,7 @@ This repo includes:
 7. A Microsoft Powerpoint containing the preliminary results of analysis from the RAWG dataset.
 8. A Tableau workbook containing visualizations of data can be found here : https://public.tableau.com/app/profile/ishmael.ho7925/viz/NLP_AnalysisofVG/Sheet9?publish=yes 
 
-**NOTE:**
-**NOT INCLUDED: The data files or pickled data in the interest of keepign this repo within the storage capacity alotted by GitHub.** 
+**NOTE:**  
+**The data files and pickled data are NOT INCLUDED in the interest of keeping this repo within the storage capacity alotted by GitHub.** 
 
 ## Have fun! 
